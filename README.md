@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alonso</h1>
 <h3 align="center">A software engineering student from Spain.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alonsodm12&label=Profile%20views&color=0e75b6&style=flat" alt="alonsodm12" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alonsodm12" alt="alonsodm12" /></a> </p>
 
 - 📫 How to reach me **alonsodmx@gmail.com**
