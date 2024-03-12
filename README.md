@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Hi 👋, I'm Alonso a software engineering student from Spain.</h2><br>📫 How to reach me **alonsodmx@gmail.com**<br>
+<h2>Hi 👋, I'm Alonso a software engineering student from Spain.</h2>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alonsodm12)
