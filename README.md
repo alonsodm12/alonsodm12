@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Alonso a software engineering student from Spain.<br>📫 How to reach me **alonsodmx@gmail.com**<br>
+<h2>Hi 👋, I'm Alonso a software engineering student from Spain.<br>📫 How to reach me **alonsodmx@gmail.com**<br></h2>
 ###
 
 <img align="right" height="150" src="https://www.juntadeandalucia.es/averroes/centros-tic/41700099/helvia/sitio/upload/img/computing64.gif"  />
