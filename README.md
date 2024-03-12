@@ -2,7 +2,7 @@
 Hi 👋, I'm Alonso a software engineering student from Spain.<br>📫 How to reach me **alonsodmx@gmail.com**<br>
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.juntadeandalucia.es%2Faverroes%2Fcentros-tic%2F41700099%2Fhelvia%2Fsitio%2Findex.cgi%3Fwid_seccion%3D4%26wid_item%3D73&psig=AOvVaw3fAHE9U9gVXjmn1oUFML7o&ust=1710291042503000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjE3-PA7YQDFQAAAAAdAAAAABAD)"  />
+<img align="right" height="150" src="https://www.juntadeandalucia.es/averroes/centros-tic/41700099/helvia/sitio/upload/img/computing64.gif"  />
 
 ###
 
