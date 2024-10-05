@@ -1,9 +1,9 @@
 # 💫 About Me:
-## Hi 👋, I'm Alonso, a passionate software engineering student from Spain 🇪🇸.
+## Hi 👋, I'm Alonso, a passionate software engineering student from Spain.
 <p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" alt="code gif" width="200" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding gif" width="200" />
 </p>
-I enjoy learning new technologies, building cool projects, and contributing to the open-source community. I’m currently working on several development projects with a focus on **agile methodologies** and **microservices architectures**.
+I love tackling new challenges, from developing apps with modern technologies to building systems that solve real-world problems. Always striving to learn and improve. Currently, I'm focused on **microservices**, **agile methodologies**, and **cloud deployment**.
 
 ---
 
@@ -29,6 +29,13 @@ I enjoy learning new technologies, building cool projects, and contributing to t
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
 ---
