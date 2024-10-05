@@ -1,18 +1,21 @@
-# 💫 About Me:
-## Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" alt="waving hand gif" /> I'm Alonso, a passionate software engineering student from Spain.
+
+## Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" alt="waving hand gif" />  I'm Alonso, a software engineering student from Spain.
+### About Me:
+
+
+- 👨‍💻 In the process of becoming a **Full Stack Developer**.
+- 🚀 I’m passionate about building reactive systems that solve real-world problems.
+- 🌱 Currently diving into **Microservices**, **Software Design Architectures**, and **Cloud Deployment**.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100" alt="line gif" />
+</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="line gif" />
-</p>
-I love facing new challenges, from developing apps with modern technologies to building systems that solve real-world problems. 
-Always trying to learn and improve my skills. 
-- 🌱 I’m currently learning **Microservices, software design architectures and cloud deployment**
-<p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif" width="220" />
 </p>
 
 
-# 🌐 Connect with me:
+## 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/alonsodm12"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:alonsodmx@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -20,7 +23,7 @@ Always trying to learn and improve my skills.
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -42,7 +45,7 @@ Always trying to learn and improve my skills.
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alonsodm12&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alonsodm12&theme=radical&hide_border=false" alt="GitHub Streak">
