@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50" alt="waving hand gif" />, I'm Alonso, a passionate software engineering student from Spain.
+## Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20" alt="waving hand gif" />, I'm Alonso, a passionate software engineering student from Spain.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="line gif" />
