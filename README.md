@@ -1,9 +1,10 @@
 # 💫 About Me:
 ## Hi 👋🏻, I'm Alonso, a passionate software engineering student from Spain.
 <p align="center">
-  <img src="https://i.gifer.com/Vp3L.gif" alt="line gif" height="2000" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="line gif" height="200" />
 </p>
-I love facing new challenges, from developing apps with modern technologies to building systems that solve real-world problems. Always trying to learn and improve my skills. Currently, I'm focused on **microservices**, **software design architectures** and **cloud deployment**.
+I love facing new challenges, from developing apps with modern technologies to building systems that solve real-world problems. 
+Always trying to learn and improve my skills. Currently, I'm focused on **microservices**, **software design architectures** and **cloud deployment**.
 
 ---
 
