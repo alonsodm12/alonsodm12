@@ -7,7 +7,7 @@
 I love facing new challenges, from developing apps with modern technologies to building systems that solve real-world problems. 
 Always trying to learn and improve my skills. Currently, I'm focused on microservices, software design architectures and cloud deployment.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding gif" width="500" />
 </p>
 ---
 
