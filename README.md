@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## Hi 👋, I'm Alonso, a passionate software engineering student from Spain.
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="progress gif" width="300" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding gif" width="200" />
 </p>
 I love tackling new challenges, from developing apps with modern technologies to building systems that solve real-world problems. Always striving to learn and improve. Currently, I'm focused on **microservices**, **agile methodologies**, and **cloud deployment**.
 
